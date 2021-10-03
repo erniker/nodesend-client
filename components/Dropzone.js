@@ -78,7 +78,7 @@ const Dropzone = () => {
             <div className="text-center">
               {' '}
               <p className="text-2xl text-center text-gray-600">
-                Sellecione un archivo y arrastrelo aquí
+                Selecione un archivo y arrastrelo aquí
               </p>
               <button
                 className="bg-blue-700 w-full py-3 rounded-lg text-white my-10 hover:bg-blue-800"
