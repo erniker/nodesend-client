@@ -4,7 +4,6 @@ import Layout from '../../components/Layout'
 import clienteAxios from '../../config/axios'
 import React, { useState, useContext } from 'react'
 import appContext from '../../context/app/appContext'
-
 import Alert from '../../components/Alert'
 
 export async function getServerSideProps({ params }) {
