@@ -4,6 +4,6 @@ module.exports = {
     // backendURL: 'http://localhost:4000',
     // frontendURL: 'http://localhost:3000',
     backendURL: 'https://blooming-woodland-88391.herokuapp.com',
-    frontendURL: 'https://nodesend-client-49xq59tea-erniker.vercel.app/',
+    frontendURL: 'https://nodesend-client-alpha.vercel.app',
   },
 }
